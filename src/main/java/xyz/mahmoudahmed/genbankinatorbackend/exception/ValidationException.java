@@ -1,2 +1,4 @@
-package xyz.mahmoudahmed.genbankinatorbackend.exception;public class ValidationException {
+package xyz.mahmoudahmed.genbankinatorbackend.exception;
+
+public class ValidationException {
 }
